@@ -1,0 +1,11 @@
+README.md
+setup.py
+calculator/calculator.py
+scientific_calculator.egg-info/PKG-INFO
+scientific_calculator.egg-info/SOURCES.txt
+scientific_calculator.egg-info/dependency_links.txt
+scientific_calculator.egg-info/entry_points.txt
+scientific_calculator.egg-info/requires.txt
+scientific_calculator.egg-info/top_level.txt
+tests/__init__.py
+tests/test_calculator.py
